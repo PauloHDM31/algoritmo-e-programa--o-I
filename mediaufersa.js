@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')(); /*Fazendo REQUERIMENTO da biblioteca JS prompt-sync para resolução do algoritmo escrevendo os valores no próprio terminal */
 
 let nota1, nota2, nota3, media, recup;
 
