@@ -2,7 +2,7 @@
 #include <locale.h>
 
 int main(){
-    setlocale(LC_ALL, "Portguese");
+    setlocale(LC_ALL, "Portuguese");
     int milhar;
     int contador=0;
         for(milhar = 1000; milhar <=2000; milhar++){
