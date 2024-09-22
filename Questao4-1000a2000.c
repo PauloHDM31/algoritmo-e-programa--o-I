@@ -16,5 +16,5 @@ int main(){
                 contador = contador+1;
             }
         }
-        printf("\nEntre os n√∫meros 1000 e 2000 h√° %d valores que divididos por 7 d√£o resto 3.", contador);
+        printf("\nEntre os n˙meros 1000 e 2000 h· %d valores que divididos por 7 d„o resto 3.", contador);
 }
