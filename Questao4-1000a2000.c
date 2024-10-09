@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <locale.h>
-
+/*
+*Maria Das Dores De Paula Sousa
+*Paulo Henrique Dantas Monte
+*/
 int main(){
     setlocale(LC_ALL, "Portuguese");
     int milhar;

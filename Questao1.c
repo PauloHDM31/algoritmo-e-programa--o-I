@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <locale.h>
-
-    int main(){ 
-        setlocale(LC_ALL,"Portuguese");
-        int numero;
+/*
+*Maria Das Dores De Paula Sousa
+*Paulo Henrique Dantas Monte
+*/
+int main(){ 
+    setlocale(LC_ALL,"Portuguese");
+    int numero;
         printf("Digite um número que seja maior que 17: ");
             scanf("%d", &numero);
 
@@ -13,5 +16,5 @@
             else{      
                  printf("%d não é maior que 17", numero);
             }
-            return 0;
-    }
+return 0;
+}
